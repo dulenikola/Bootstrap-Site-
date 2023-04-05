@@ -1,0 +1,36 @@
+.nav-link {
+    margin: 0 0.5rem;
+}
+
+.hero-section {
+    position: relative;
+}
+
+#hero-h4 {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    max-width: 80%;
+    background-color: #31c68b;
+}
+
+#icons,
+#recent-work,
+#Blog {
+    background-color: rgba(39, 39, 39, 0.1);
+}
+#dark-section {
+    background-color: rgb(39, 39, 39);
+}
+
+footer {
+    background-color: rgb(15, 15, 15);
+}
+
+#citat {
+    background-color: #31c68b;
+	position: absolute;
+	top: 25%;
+	left: 10%;
+	max-width: 80%;
+}
